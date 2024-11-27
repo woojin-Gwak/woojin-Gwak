@@ -1,4 +1,10 @@
-<h1 align="left">Hi 👋, I'm woojin Gwak</h1>
+# Hi, I'm [Your Name] 👋
+- 📚 **Algorithm Study**: 코딩 테스트 준비 과정과 풀이를 기록 중입니다.
+- 🔗 **My Projects**:  
+  - [백준 활동 프로필](https://www.acmicpc.net/user/wj0147)  
+  - [노션 알고리즘 정리](https://www.notion.so/111900cfb74d8063b6a8eda74cc47de0)  
+- 📧 **Contact**: wj5547@naver.com
+
 <h3 align="left">Aspiring Developer on a Continuous Learning Journey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woojin-gwak&label=Profile%20views&color=0e75b6&style=flat" alt="woojin-gwak" /> </p>
