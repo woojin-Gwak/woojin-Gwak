@@ -5,9 +5,17 @@
 ![Screenshot_20241203_141425_Chrome](https://github.com/user-attachments/assets/d6d49bf2-3a7b-4152-9ac0-aaa1c5ee2558)
 ![Screenshot_20241203_141402_Chrome](https://github.com/user-attachments/assets/1e8bb543-4c79-4d5b-a1a3-f88306caf390)
 
+## About My Personality: Strengths and Weaknesses
+- Strengths
+I am diligent and take pride in my consistent effort.
+I manage stress effectively through regular exercise, such as fitness training and running, which also helps me maintain physical health and confidence.
+- Weaknesses
+I take some time to adapt to new environments and people.
+However, I am actively working to overcome this through interview study groups and team projects.
 
-  - [노션 알고리즘 정리](https://www.notion.so/111900cfb74d8063b6a8eda74cc47de0)
-  - [프로그래머스 활동]
+## Activity Overview
+- [노션 알고리즘 정리](https://www.notion.so/111900cfb74d8063b6a8eda74cc47de0)
+- [프로그래머스 활동]
 ![Screenshot_20241203_140947_Chrome](https://github.com/user-attachments/assets/3fc4e58b-b9bb-4df6-980e-67dbe7db016e)
 
 - 📧 **Contact**: wj5547@naver.com
