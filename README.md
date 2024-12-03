@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Woojin Gwak 👋
 - 📚 **Algorithm Study**: 코딩 테스트 준비 과정과 풀이를 기록 중입니다.
 - 🔗 **My Projects**:  
   - [백준 활동 프로필](https://www.acmicpc.net/user/wj0147)  
